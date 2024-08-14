@@ -6,7 +6,7 @@ Hi 👋, I'm Hyukoo (Hyuk or Hyeokwoo)! I'm a frontend-focused software engineer
 
 - Building enterprise-level web applications
 - Developing internal UI kit libraries
-- Creating robust billing systems
+- Creating streamlined billing systems
 - Instructing students in programming bootcamp
 
 **🔍 Current Interests:**
