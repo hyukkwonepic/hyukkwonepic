@@ -24,8 +24,6 @@ Hi 👋, I'm Hyoku (Hyuk or Hyeokwoo)! I'm a frontend-focused software engineer 
 
 ## Latest Projects 🗂️
 
-#### [Kiwiy Daily Scrum](https://github.com/kiwiy-is/dailyscrum)
-
 #### [Standup Kiwi](https://github.com/kiwinight/standup-kiwi)
 
 - An open-source SaaS web app for daily standups that helps save time in standup meetings and allows async standups.
