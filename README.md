@@ -1,6 +1,6 @@
 ## About me
 
-Hi 👋, I'm Hyukoo (Hyuk or Hyeokwoo)! I'm a frontend-focused software engineer with an entrepreneurial background. My passion lies in crafting software that helps people spend less time on their work.
+Hi 👋, I'm Hyoku (Hyuk or Hyeokwoo)! I'm a frontend-focused software engineer with an entrepreneurial background. My passion lies in crafting software that helps people spend less time on their work.
 
 **💼 Professional Experience:**
 
@@ -17,25 +17,27 @@ Hi 👋, I'm Hyukoo (Hyuk or Hyeokwoo)! I'm a frontend-focused software engineer
 
 ## Technical skills 🛠️
 
-- Programming Languages: JavaScript, TypeScript
-- Frontend Technologies: React, Redux, Redux-Saga, Next.js, Remix, Storybook, Nx
+- Programming Languages: JavaScript, TypeScript, Clojure, Scala
+- Frontend Technologies: React, Redux, Redux-Saga, Next.js, Remix, React Router, Storybook, Nx
 - Tools & Platforms: AWS, GCP, Vercel, fly.io, Docker, Github Actions
-- Backend Technologies: NestJS, Supabase, Firebase, Node.js
+- Backend Technologies: NestJS, Node.js, Supabase, Firebase, ring, Akka HTTP
 
 ## Latest Projects 🗂️
 
 #### [Kiwiy Daily Scrum](https://github.com/kiwiy-is/dailyscrum)
 
-- An open-source SaaS web app that streamlines daily scrum processes for teams.
-- Live on [https://dailyscrum.kiwiy.is/](https://dailyscrum.kiwiy.is/)
+#### [Standup Kiwi](https://github.com/kiwinight/standup-kiwi)
+
+- An open-source SaaS web app for daily standups that helps save time in standup meetings and allows async standups.
+- Live on [https://standupkiwi.com/](https://standupkiwi.com/)
 
 
 ## Let's connect! 🤝
 
 I'm always open to interesting conversations and collaboration opportunities. Feel free to reach out!
 
-- [Email](mailto:hyuk.kwon.epic@outlook.com)
-- [LinkedIn](https://www.linkedin.com/in/hyukoo-kwon/)
+- [Email](mailto:hyoku.alex.kwon@outlook.com)
+- [LinkedIn](https://www.linkedin.com/in/hyoku-alex-kwon/)
 
 
 <!--
